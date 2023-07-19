@@ -2,4 +2,4 @@
 .DS_Store
 data/*
 ChemGNN_Dataset_old.zip
-ChemGNN_Dataset.zip
+#ChemGNN_Dataset.zip
