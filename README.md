@@ -64,7 +64,7 @@ ChemGNN_Dataset
 ├────── GCN/
 ├────────── GCN_ALL/
 ├────────── GCN_C1P/
-├────────── GCN_C2P/git lfs install
+├────────── GCN_C2P/
 ├────────── GCN_N1C/
 ├────────── GCN_N1P/
 ├────────── GCN_N2C/
