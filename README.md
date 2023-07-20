@@ -1,11 +1,10 @@
 Doped Graphitic Carbon Nitride Nanosheets Datasets - Used for Chemical Environment Graph Neural Network (ChemGNN)
 ===
 
-[//]: # (![ChemGNN_Dataset_Logo]&#40;https://github.com/EnzeXu/ChemGNN_Dataset/assets/90367338/24360633-c1fa-40e1-981a-1e98c8f0813d&#41;)
-[//]: # (![ChemGNN_Dataset_Logo]&#40;https://github.com/EnzeXu/ChemGNN_Dataset/assets/90367338/c60d2a1e-3cbf-4485-9b48-c93a64bb9d9d&#41;)
+
 
 <p>
-  <img src="https://github.com/EnzeXu/ChemGNN_Dataset/assets/90367338/c60d2a1e-3cbf-4485-9b48-c93a64bb9d9d" alt="ChemGNN_Dataset_Logo" width="100%">
+  <img src="https://github.com/EnzeXu/ChemGNN_Dataset/assets/90367338/204ec9c1-972f-4bcf-bf6c-a854c3c137b9" alt="ChemGNN_Dataset_Logo" width="100%">
 </p>
 
 (a) Structure of water molecules. (b) Structure of heptazine molecules. (c) Structure of an undoped g-C3N4 molecule.
