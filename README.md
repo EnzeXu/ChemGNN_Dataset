@@ -33,7 +33,7 @@ Paper BibTeX:
 ```
 @article{chen2023chemical,
   title        = {Chemical Environment Adaptive Learning for Optical Band Gap Prediction of Doped Graphitic Carbon Nitride Nanosheets},
-  author       = {Chen, Chen and Xu, Enze and Yang, Defu and Yin, Haibing and Wei, Tao and Chen, Hanning and Wei, Yong and Chen, Minghan},
+  author       = {Chen, Chen and Xu, Enze and Yang, Defu and Yan, Chenggang and Wei, Tao and Chen, Hanning and Wei, Yong and Chen, Minghan},
   journal      = {arXiv preprint arXiv:2302.09539},
   year         = {2023}
 }
@@ -44,7 +44,7 @@ Dataset BibTeX:
 ```
 @misc{chen2023chemgnndatasets,
   title        = {Chemical Environment Graph Neural Network (ChemGNN) Datasets},
-  author       = {Chen, Chen and Xu, Enze and Yang, Defu and Yin, Haibing and Wei, Tao and Chen, Hanning and Wei, Yong and Chen, Minghan},
+  author       = {Chen, Chen and Xu, Enze and Yang, Defu and Yan, Chenggang and Wei, Tao and Chen, Hanning and Wei, Yong and Chen, Minghan},
   year         = {2023},
   howpublished = {https://github.com/EnzeXu/ChemGNN_Dataset/raw/main/ChemGNN_Dataset.zip},
   publisher    = {GitHub},
